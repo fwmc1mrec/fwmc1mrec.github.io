@@ -1,1 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,500,800,900&amp;display=swap");
+
+html {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    text-size-adjust: 100%;
+    color: #37352f;
+}
+
+body {
+    font-family: "Roboto",sans-serif;
+    font-size: 16px;
+}
